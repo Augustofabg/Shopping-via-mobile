@@ -10,9 +10,6 @@ This page was designed with a futuristic and stylish aesthetic, created as an il
 to test and enhance my knowledge of HTML and CSS. The focus is on exploring modern design concepts, 
 combining creativity and functionality in a visually appealing interface.
 
-
-
-
 ## Technologies:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
